@@ -1,0 +1,19 @@
+Trabajo Práctico N°1: Control de versiones
+
+Informe de Comandos utlizados.
+
+mkdir 
+cd
+git init
+git config --global user.name
+git config --global user.email
+git config --global color.iu auto
+git config --global merge.conlictstyle diff3
+git config --global alias.lg "log --oneline --graph"
+git config --list
+code
+(creamos archivo README.md y le agregams contenido)
+
+
+
+
