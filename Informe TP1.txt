@@ -34,10 +34,11 @@ cd TP1-PracticaProfesionalizante/
 code
 git branch 
 git checkout
-
-
-
-
-
+creamos archivo ,py
+git add .
+git commit -m 
+git commit --amend -m "Modificación de Informe y creación de archivo python"
+git add .
+git commit -m "Modificación archivo README.dm"
 
 

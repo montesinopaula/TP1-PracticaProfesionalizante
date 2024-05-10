@@ -33,7 +33,8 @@ Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots 
 He first line of **Lorem Ipsum**, "Lorem ipsum dolor sit amet..", comes from a line in section 1.10.32.
 ***
 
-
+![texto cualquiera por si no carga la imagen]()
+![Imagen de un gato]( https://www.shutterstock.com/pt/image-photo/couple-cute-kittens-love-sleeping-on-2248661199)
 
 
 
