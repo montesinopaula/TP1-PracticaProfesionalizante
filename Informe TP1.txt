@@ -16,7 +16,11 @@ code
 git status
 git add .
 git status
-
+git commit -m "Primer commit del TP1"
+git status
+git remote add origin https://github.com/montesinopaula/TP1-PracticaProfesionalizante.git
+git push origin master
+git 
 
 
 
