@@ -2,6 +2,8 @@ Trabajo Práctico N°1: Control de versiones
 
 Informe de Comandos utlizados.
 
+EStudiante 1: Paula Montesino
+
 mkdir 
 cd
 git init
@@ -22,6 +24,10 @@ git remote add origin https://github.com/montesinopaula/TP1-PracticaProfesionali
 git push origin master
 git add Informe\ TP1.txt
 git commit -m "Agregar cambios en el Informe"
+
+Estudiante 2: Laura Nieto
+
+
 
 
 
