@@ -27,6 +27,15 @@ git commit -m "Agregar cambios en el Informe"
 
 Estudiante 2: Laura Nieto
 
+mkdir Estudiante2/
+cd Estudiante2/
+git clone https://github.com/montesinopaula/TP1-PracticaProfesionalizante
+cd TP1-PracticaProfesionalizante/
+code
+git branch 
+git checkout
+
+
 
 
 
