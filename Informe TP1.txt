@@ -13,6 +13,10 @@ git config --global alias.lg "log --oneline --graph"
 git config --list
 code
 (creamos archivo README.md y le agregams contenido)
+git status
+git add .
+git status
+
 
 
 
